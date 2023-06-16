@@ -1,7 +1,7 @@
 ## 学习强国题库json版
 
 * 适用于[物理隔绝答题辅助工具-呆呆扫题](https://play.google.com/store/apps/details?id=com.hydjan.daydayscanner)
-* 截止2023年5月，共收录4283道题
+* 截止2023年6月，共收录4314道题
 
 ## 使用方法
 ### 1.在线导入
@@ -19,4 +19,4 @@
 * [呆呆扫题实战演示及要点教学](https://youtu.be/ZHS6c2Nw144)
 
 ### 2.手动快速刷分教程
-* [1分钟25分，3分钟32分，7分钟44分](https://youtu.be/ekL1FpBf9RE)
+* [1分钟25分，4分钟刷满](https://youtu.be/ekL1FpBf9RE)
