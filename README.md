@@ -1,7 +1,7 @@
 ## 学习强国题库json版
 
 * 适用于[物理隔绝答题辅助工具-呆呆扫题](https://play.google.com/store/apps/details?id=com.hydjan.daydayscanner)
-* 截止2023年12月30日，共收录9277道题
+* 截止2024年01月05日，共收录9399道题
 
 ## 使用方法
 ### 1.在线导入
